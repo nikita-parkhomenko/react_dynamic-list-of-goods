@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.scss"],"names":[],"mappings":"AAAA,KACE,sBAAuB,CACxB,OAGC,WAAY,CACZ,WAAY,CACZ,cAAe,CACf,eAAgB,CAChB,iBAAkB,CAClB,cAAe","file":"main.745ffb07.chunk.css","sourcesContent":["body {\n  font-family: sans-serif;\n}\n\nbutton {\n  width: 100px;\n  height: 40px;\n  font-size: 18px;\n  font-weight: 600;\n  margin-right: 10px;\n  cursor: pointer;\n}\n"]}
